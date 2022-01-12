@@ -1,1 +1,1 @@
-# Checkers
+# Checkers project for university
